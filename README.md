@@ -1,4 +1,4 @@
-[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp)]
+[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp)](http://tamirat-fereja.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Tamirat fereja</h1>
 <h3 align="center">A passionate fullstack web developer from ETHIOPIA</h3>
