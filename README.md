@@ -1,9 +1,9 @@
-[![MasterHead](https://qrangers.com/courses/introduction-to-3-d-animation-2/)](http://tamirat-fereja.netlify.app/)
+[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp)]
 
 <h1 align="center">Hi 👋, I'm Tamirat fereja</h1>
-<h3 align="center">A passionate frontend developer from ETHIOPIA</h3>
-
-<img align ="right" alt="'coding" width ="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.braveriver.com%2F_files%2Fpublic%2Fai-personalization-seo.gif&tbnid=ITaGGdoGDaxxhM&vet=12ahUKEwj41_2V97OBAxXtg_0HHQ5tBuIQMygUegUIARCQAQ..i&imgrefurl=https%3A%2F%2Fwww.braveriver.com%2Fblog%2Fhow-to-use-ai-with-search-engine-optimization-in-2020%2F&docid=piBQR3Q5BcSGmM&w=480&h=360&q=animated%20codergif%20image%20created%20by%20ai&ved=2ahUKEwj41_2V97OBAxXtg_0HHQ5tBuIQMygUegUIARCQAQ">
+<h3 align="center">A passionate fullstack web developer from ETHIOPIA</h3>
+<img aligns"right" alt="Coding img" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- ‹p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=ProfileX20views&color=@e75b6&style=flat" alt> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamirat-fereja-t&label=Profile%20views&color=0e75b6&style=flat" alt="tamirat-fereja-t" /> </p>
 
