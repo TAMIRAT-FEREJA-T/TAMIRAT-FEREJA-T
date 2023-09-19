@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **Django,xpress,Mongo E**
+- 🌱 I’m currently learning **Django,Express,Mongo E**
 
 - 👯 I’m looking to collaborate on **backend**
 
