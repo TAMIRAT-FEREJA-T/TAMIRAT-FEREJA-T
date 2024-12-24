@@ -1,7 +1,7 @@
 [![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp)](http://tamirat-fereja.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Tamirat fereja</h1>
-<h3 align="center">A passionate fullstack web developer from ETHIOPIA</h3>
+<h3 align="center"> MERN stack developer from ETHIOPIA</h3>
 <img aligns"right" alt="Coding img" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <!-- ‹p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=ProfileX20views&color=@e75b6&style=flat" alt> -->
 
