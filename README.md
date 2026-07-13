@@ -87,6 +87,9 @@ A comprehensive, event-driven educational platform built as a scalable microserv
 * **Curriculum Engine:** Hierarchical course structuring with dynamic reordering, tree-based navigation, breadcrumb generation and bulk content operations.
 * **Google Calendar Synchronization:** OAuth2-authenticated calendar provisioning, incremental event mapping, and webhook integrations for cohort based learning and assessment .
 * **AI & Media Processing:** Automated video transcription, learning content summarization, and video processing.
+* **Content delivery:**  self paced and cohort based content delivery with business logic .
+
+
 
 **Core Technologies:** `NestJS`, `PostgreSQL`, `Apache Kafka`, `Eureka`, `Redis`, `Python`, `Gemini AI`, `Whisper AI`
 
